@@ -1,22 +1,16 @@
 # ORM com NodeJS: Sequelize e MySQL
-<div align="right">
-<p>- curso Alura</p>
-</div>
 
-<div align="center">
+<div align="right">
 
 ***Repositório de estudo e desenvolvimento***
-  
-##
 
 </div>
 
-### Brunch
+## Brunch
 
-* **Master** : projeto completo de acordo com a disponibilização da Alura
+> * **Master** : projeto completo de acordo com a disponibilização da Alura
 
-* **Leo** : linha de desenvolvimento com minhas anotações ~e uso de Docker~ 
-
+> * **Leo** : linha de desenvolvimento com minhas anotações ~e uso de Docker~ 
 
 ## Conhecimentos que estou adquirindo
 
