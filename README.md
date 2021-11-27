@@ -21,3 +21,14 @@
 ## Conhecimentos que estou adquirindo
 
 > * Entender melhor o padrão MVC
+> * ...
+
+## Tecnologias que estou utilizando
+
+> * Yarn
+> * Commitizen - *padronização dos commit´s*
+> * Nodemon 
+> * Docker 
+> * Express
+> * MySQL
+> * Sequelize
