@@ -6,12 +6,6 @@
 
 </div>
 
-## Brunch
-
-> * **Master** : projeto completo de acordo com a disponibilização da Alura
-
-> * **Leo** : linha de desenvolvimento com minhas anotações ~e uso de Docker~ 
-
 ## Conhecimentos que estou adquirindo
 
 > * Entender melhor o padrão MVC
@@ -22,7 +16,6 @@
 > * Yarn
 > * Commitizen - *padronização dos commit´s*
 > * Nodemon 
-> * Docker 
 > * Express
 > * MySQL
 > * Sequelize
